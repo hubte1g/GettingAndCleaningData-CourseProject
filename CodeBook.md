@@ -24,9 +24,9 @@ Dataset Columns
 
 Column Name |
 ----------------------------------------------- |
-subj_id
-activity
-Avg_TimeBody_AccelerationMean...X
+subj_id |
+activity |
+Avg_TimeBody_AccelerationMean...X |
 Avg_TimeBody_AccelerationMean...Y
 Avg_TimeBody_AccelerationMean...Z
 Avg_TimeBody_Accelerationstd...X
