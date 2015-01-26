@@ -21,6 +21,9 @@ Solution Logic
 
 Dataset Columns
 --------------------------
+
+Column Name |
+----------------------------------------------- |
 subj_id
 activity
 Avg_TimeBody_AccelerationMean...X
